@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JosieAilsa
 - 👀 I’m interested in UI design and development. 
 - 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on anything that build my skill set!
+- 💞️ I’m looking to collaborate on anything that will build my skill set!
 - 📫 Reach me on josie.a.newman@gmail.com
 
 <!---
