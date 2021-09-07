@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JosieAilsa
-- 👀 I’m a content creator and writer, but I've recently discovered a passion for UI design and development.
+- 👀 I’m a content creator and writer, but I've recently discovered a passion for UI design and development. So I recently enrolled on a front-end development course around my full time role. 
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on anything that will build my skill set!
 - 📫 Reach me on josie.a.newman@gmail.com
