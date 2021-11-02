@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Josie
 - 👀  I’m a content designer and writer...
 - 🌱 currently learning javascript...
-- 💞️ and am looking to collaborate on anything that will build my skill set!
+- 💞️ and looking to collaborate on anything that will build my skill set!
 - 📫 Reach me on josie.a.newman@gmail.com
 <!---
 JosieAilsa/JosieAilsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
