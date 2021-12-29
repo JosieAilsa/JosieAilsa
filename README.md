@@ -1,11 +1,8 @@
-👋 Hi, I’m JosieAilsa
+![githubjn](https://user-images.githubusercontent.com/82321832/147693048-3098a66d-b0e7-4b5d-bb47-9b4ad27c2d11.png)
 ---
 - 👩‍💻 I’m a technical content writer turned developer ...
 - 🌱 currently learning java and React.js
 - 📫 Reach me at josie.a.newman@gmail.com
-
-![bg3-01](https://user-images.githubusercontent.com/82321832/147692829-22ad6d4a-2ca4-4f45-8db8-1d16b5f2fc12.png)
-
 ---
 <h3> Languages, Frameworks & Tools :muscle: </h3> 
 <p>
