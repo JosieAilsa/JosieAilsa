@@ -2,7 +2,7 @@
 
  * :woman_technologist: I started leanring HTML and CSS in lockdown #1 2020 - and haven't look back since!
  * :rocket: In late 2021, I left my previous role in corporate communications for a fully-fledged career in tech.
- * 🌱 I'm now learning java
+ * 🌱 I'm now learning react, java & springboot.
 
 ---
 <h3> Languages, Frameworks & Tools :muscle: </h3> 
