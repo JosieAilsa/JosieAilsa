@@ -1,6 +1,6 @@
-![jnbg-01-02](https://user-images.githubusercontent.com/82321832/147693389-db929916-35d8-412d-aa9c-196693b89112.png)
 
----
+---![jnbg-01-01](https://user-images.githubusercontent.com/82321832/147693436-b65b19f9-d1b1-488e-9865-dbdc88848f5f.png)
+
 - 👩‍💻 I’m a technical content writer turned developer ...
 - 🌱 currently learning java and React.js
 - 📫 Reach me at josie.a.newman@gmail.com
