@@ -24,6 +24,5 @@ Languages, Frameworks & Tools :muscle:
  <img src = "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
  </div>
  
-NPM React Adobe AI/XD IntelliJ Visual Studio Code GitHub 
 </p>
 ---
