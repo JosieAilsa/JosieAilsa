@@ -1,4 +1,5 @@
-![githubjn](https://user-images.githubusercontent.com/82321832/147693048-3098a66d-b0e7-4b5d-bb47-9b4ad27c2d11.png)
+![jnbg-01-02](https://user-images.githubusercontent.com/82321832/147693389-db929916-35d8-412d-aa9c-196693b89112.png)
+
 ---
 - 👩‍💻 I’m a technical content writer turned developer ...
 - 🌱 currently learning java and React.js
