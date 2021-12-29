@@ -1,7 +1,7 @@
 ![jnbg3-02-02](https://user-images.githubusercontent.com/82321832/147697518-0cd237b3-c6d7-4649-a203-f09c67237fb4.png)
 
- * :woman_technologist: I started leanring HTML and CSS in lockdown #1 2020 - and haven't look back since! 
- * :rocket: In late 2021, I left my previous role in corporate communications for a fully-fledged career in tech! 
+ * :woman_technologist: I started leanring HTML and CSS in lockdown #1 2020 - and haven't look back since!
+ * :rocket: In late 2021, I left my previous role in corporate communications for a fully-fledged career in tech.
  * 🌱 I'm now learning java
 
 ---
