@@ -5,7 +5,7 @@
 - 📫 Reach me at josie.a.newman@gmail.com 
 
 
-Languages and Tools 👩‍💻
+#Languages and Tools 👩‍💻
 
 HTML5 CSS3 JavaScript Java NPM React Adobe AI/XD IntelliJ Visual Studio Code GitHub 
 
