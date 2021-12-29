@@ -6,5 +6,9 @@
 
 ---
 Languages and Tools 👩‍💻 :muscle: 
-|HTML5| CSS3 JavaScript Java NPM React Adobe AI/XD IntelliJ Visual Studio Code GitHub 
+HTML5 
+CSS3 
+JavaScript 
+Java
+NPM React Adobe AI/XD IntelliJ Visual Studio Code GitHub 
 ---
