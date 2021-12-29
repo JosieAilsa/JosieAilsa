@@ -1,4 +1,5 @@
-![jnbg3-02](https://user-images.githubusercontent.com/82321832/147695100-ba2c0936-ddf3-4b1b-8996-acd6efcfe6d0.png)
+
+![bg3-02](https://user-images.githubusercontent.com/82321832/147696003-ef632869-b9da-4160-be4e-4ca71ad10095.png)
 
 - 👩‍💻 I’m a technical content writer turned developer ...
 - 🌱 currently learning java and React.js
