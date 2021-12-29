@@ -2,10 +2,12 @@
 ---
 - 👩‍💻 I’m a technical content writer turned developer ...
 - 🌱 currently learning java and React.js
-- 📫 Reach me at josie.a.newman@gmail.com 
+- 📫 Reach me at josie.a.newman@gmail.com
+
+![bg3-01](https://user-images.githubusercontent.com/82321832/147692829-22ad6d4a-2ca4-4f45-8db8-1d16b5f2fc12.png)
 
 ---
-Languages, Frameworks & Tools :muscle: 
+<h3> Languages, Frameworks & Tools :muscle: </h3> 
 <p>
  <div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,4 +27,4 @@ Languages, Frameworks & Tools :muscle:
  </div>
  
 </p>
----
+
