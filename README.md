@@ -1,9 +1,9 @@
 
 ![bg3-02](https://user-images.githubusercontent.com/82321832/147696003-ef632869-b9da-4160-be4e-4ca71ad10095.png)
+ <h3> I started leanring HTML and CSS in lockdown #1 2020, and haven't look back since! </h3> 
+ - :woman_technologist: I'm a technical writer turned, junior software coach! 
+- 🌱 I'm learning java
 
-- 👩‍💻 I’m a technical content writer turned developer ...
-- 🌱 currently learning java and React.js
-- 📫 Reach me at josie.a.newman@gmail.com
 ---
 <h3> Languages, Frameworks & Tools :muscle: </h3> 
 <p>
