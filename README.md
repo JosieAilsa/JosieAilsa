@@ -1,5 +1,4 @@
-
-![jnbg-01-01](https://user-images.githubusercontent.com/82321832/147694775-b4f9fb82-182d-4ebb-bf50-306ad581a0da.png)
+![jnbg3-02](https://user-images.githubusercontent.com/82321832/147695100-ba2c0936-ddf3-4b1b-8996-acd6efcfe6d0.png)
 
 - 👩‍💻 I’m a technical content writer turned developer ...
 - 🌱 currently learning java and React.js
