@@ -16,6 +16,8 @@ Languages, Frameworks & Tools :muscle:
  <div>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+ <img src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+ <img src = "https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> 
  </div>
  <div>
  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
