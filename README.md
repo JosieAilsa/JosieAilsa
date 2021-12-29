@@ -4,8 +4,7 @@
 - 🌱 currently learning java and React.js
 - 📫 Reach me at josie.a.newman@gmail.com 
 
-
-#Languages and Tools 👩‍💻
-
+---
+Languages and Tools 👩‍💻 :mask: 
 HTML5 CSS3 JavaScript Java NPM React Adobe AI/XD IntelliJ Visual Studio Code GitHub 
-
+---
