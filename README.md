@@ -1,8 +1,9 @@
 ![jnbg3-02-02](https://user-images.githubusercontent.com/82321832/147697518-0cd237b3-c6d7-4649-a203-f09c67237fb4.png)
 
- * :woman_technologist: I started learning HTML and CSS in lockdown #1 2020 - and haven't look back since!
- * :rocket: In late 2021, I left my previous role in corporate communications for a fully-fledged career in tech.
- * 🌱 I'm currently learning react, java & springboot.
+ * :woman_technologist: Lockdown #1 2020 encouraged me to enhance my digital skills set, so with all my new-found spare time sat inside, I began learning HTML and CSS - hacen't looked back since!
+ * :rocket: In late 2021, I left my previous job as a corporate content writer, for a fully-fledged career in tech.
+ * :computer: I'm now a junior software coach at nology, a tech training centre based in Bristol. 
+ * 🌱 Alongside my new role, I'm learning react, java & springboot.
 
 ---
 <h3> Languages, Frameworks & Tools :muscle: </h3> 
