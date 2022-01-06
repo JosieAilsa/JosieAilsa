@@ -6,7 +6,7 @@
  
  :computer: I'm now a junior software coach at nology, a Britsol-based training center, helping others learn to code too. 
  
- 🌱 Alongside my new role, I'm learning react, java & spring boot.
+ 🌱 Alongside my new role, I'm learning React, Java & Spring Boot.
 
 ---
 <h3> Languages, Frameworks & Tools :muscle: </h3> 
