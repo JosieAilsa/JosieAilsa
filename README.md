@@ -1,6 +1,6 @@
 ![jnbg3-02-02](https://user-images.githubusercontent.com/82321832/147697518-0cd237b3-c6d7-4649-a203-f09c67237fb4.png)
 
- :woman_technologist: Lockdown #1 2020 encouraged me to enhance my digital skill set. With all my new-found spare time, I began learning HTML and CSS, and haven't looked back since!
+ :woman_technologist: Lockdown #1 2020 encouraged me to enhance my digital skill set. With all my new-found spare time I began learning HTML and CSS, and haven't looked back since!
  
  :rocket: In late 2021, I left my previous job in corporate comms for a fully-fledged career in tech.
  
