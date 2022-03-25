@@ -2,11 +2,11 @@
 
  :woman_technologist: Lockdown #1 2020 encouraged me to enhance my digital skill set. With all my new-found spare time I began learning HTML and CSS, and haven't looked back since!
  
- :rocket: In late 2021, I left my previous job as a corporate content writer for a fully-fledged career in tech.
+ :rocket: In late 2021, I left my previous job as a corporate content writer – read some of my work <a href = "https://imperialbrandsscience.com/blog/talking-tobacco-harm-reduction-and-a-world-beyond-smoke"> here </a>  for a fully-fledged career in tech.
  
  :computer: I'm now a junior software coach at _nology – a Bristol-based training center – helping others learn to code too. 
  
- 🌱 Alongside my new role, I'm learning React, Java & Spring Boot.
+ 🌱 Alongside my new role, I'm Java & Spring Boot.
 
 ---
 <h3> Languages & Tools :muscle: </h3> 
