@@ -4,7 +4,7 @@
 
 🔒 When lockdown 2020 hit, with all my new-found spare time I began learning HTML and CSS, and haven't looked back since!
  
- :rocket: In late 2021, I left my previous job as a corporate content writer- for a fully-fledged career in tech.
+ :rocket: In late 2021, I left the world of comms and content writing for a fully-fledged career in tech.
  
  :computer: I'm now a junior software coach at _nology – a Bristol-based training center – helping others learn to code too. 
  
