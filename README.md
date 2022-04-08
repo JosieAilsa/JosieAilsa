@@ -11,7 +11,7 @@
  🌱 Alongside my new role, I'm now learning Java & Spring Boot.
 
 ---
-<h3> I have experience with :muscle: </h3> 
+<h3>Langauges, tools & skills :muscle: </h3> 
 <p>
  <div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
