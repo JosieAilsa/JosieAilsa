@@ -1,6 +1,6 @@
 ![jnbg3-02-02](https://user-images.githubusercontent.com/82321832/147697518-0cd237b3-c6d7-4649-a203-f09c67237fb4.png)
 
-:woman_technologist: I was first introduced to coding when, working with a digital agency, I launched and latterly managed, a research website as part of my day-to-day comms job at a large FMCG company. You can see some of my work from my days as a content writer <a href = "https://imperialbrandsscience.com/blog/talking-tobacco-harm-reduction-and-a-world-beyond-smoke"> here </a>. 
+:woman_technologist: I was first introduced to coding when, working with a digital agency, I launched and latterly managed, a research website as part of my day-to-day comms job at a large FMCG company. You can see some of my work from my days as a content writer <a href = "https://imperialbrandsscience.com/blog/talking-tobacco-harm-reduction-and-a-world-beyond-smoke"> here</a>. 
 
 🔒 When lockdown 2020 hit, with all my new-found spare time I began learning HTML and CSS, and haven't looked back since!
  
