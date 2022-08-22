@@ -6,7 +6,7 @@
  
  :rocket: In late 2021, I left the world of comms and content writing for a fully-fledged career in tech.
  
- :computer: I'm now a junior software coach at _nology – a Bristol-based training center – helping others learn to code too. 
+ :computer: I'm now an associate software coach at _nology – a Bristol-based training center – helping others learn to code too. 
  
  🌱 Alongside my new role, I'm now learning Java & Spring Boot.
 
