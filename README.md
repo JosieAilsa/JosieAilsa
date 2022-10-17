@@ -1,4 +1,4 @@
-![jnbg3-02-02](https://user-images.githubusercontent.com/82321832/147697518-0cd237b3-c6d7-4649-a203-f09c67237fb4.png)
+![githubbg2-02](https://user-images.githubusercontent.com/82321832/196165027-30064254-bab4-4241-ab96-16e19e098f0c.svg)
 
 :woman_technologist: I was first introduced to coding when, working with a digital agency, I launched and latterly managed, an editorial website as part of my day-to-day comms job at a large FMCG company. You can see some of my work from my days as a content writer <a href = "https://imperialbrandsscience.com/blog/talking-tobacco-harm-reduction-and-a-world-beyond-smoke"> here</a>. 
 
