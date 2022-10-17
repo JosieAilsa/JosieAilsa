@@ -5,9 +5,9 @@
 
 🔒 When lockdown 2020 hit, with all my new-found spare time I began learning HTML and CSS, and haven't looked back since!
  
- :rocket: In late 2021, I took the plunge, leaving the world of comms for a fully-fledged career in software development.
+ :rocket: In late 2021, I took the plunge, switching careers for a fully-fledged role in software development.
  
- :computer: I'm now an associate software coach at _nology – a Bristol-based training center – helping others learn to code too. 
+ :computer: I'm now an associate software coach at _nology – a Bristol-based training center – using all my comms skills to help others learn to code too. 
 
 
 ---
