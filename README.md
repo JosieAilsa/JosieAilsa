@@ -7,8 +7,6 @@
  
  :rocket: In late 2021, I took the plunge, switching careers for a fully-fledged role in software development.
  
- :computer: I'm now an associate software coach at _nology – a Bristol-based training center – using all my comms skills to help others learn to code too. 
-
 
 ---
 <h3>Langauges, tools & skills :muscle: </h3> 
