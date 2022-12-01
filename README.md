@@ -1,7 +1,7 @@
 
 ![github-02](https://user-images.githubusercontent.com/82321832/196165894-6145a0a9-e03f-4532-8101-e8447197d95a.png)
 
-:woman_technologist: I was first introduced to coding when, working with a digital agency, I launched and latterly managed, an editorial website as part of my day-to-day comms job at a large FMCG company. You can see some of my work from my days as a content writer <a href = "https://imperialbrandsscience.com/blog/talking-tobacco-harm-reduction-and-a-world-beyond-smoke"> here</a>. 
+:woman_technologist: I was first introduced to coding when, working with a digital agency, I launched and latterly managed, an editorial website as part of my day-to-day comms job at a large FMCG company.
 
 🔒 When lockdown 2020 hit, with all my new-found spare time I began learning HTML and CSS, and haven't looked back since!
  
