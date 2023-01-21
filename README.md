@@ -3,9 +3,9 @@
 
 :woman_technologist: I was first introduced to coding when, working with a digital agency, I launched and latterly managed, an editorial website as part of my day-to-day comms job at a large FMCG company.
 
-🔒 When lockdown 2020 hit, with all my new-found spare time I began learning HTML and CSS, and haven't looked back since!
+🔒 In the depths of COVID lockdown 2021, I wanted to use my new found spare time productively, so began learning HTML and CSS. 
  
- :rocket: In late 2021, I took the plunge, switching careers for a fully-fledged role in software development.
+ :rocket: Fast-forward three years (and a lot of late nights later!), I've switched careers for a fully-fledged role in software development.
  
 
 ---
