@@ -1,13 +1,12 @@
 
 ![github-02](https://user-images.githubusercontent.com/82321832/196165894-6145a0a9-e03f-4532-8101-e8447197d95a.png)
 
-:woman_technologist: I was first introduced to coding when, working with a digital agency, I launched and latterly managed, an editorial website as part of my day-to-day comms job at a large FMCG company.
+:woman_technologist: I was first introduced to coding whenn I started using a CMS to manage an editorial website as part of my day-to-day comms job. 
 
-🔒 In the depths of COVID lockdown 2021, I wanted to use my new found spare time productively, so began learning HTML and CSS. 
+🔒 In the depths of COVID lockdown 2020, I wanted to use my new found spare time productively, so began learning HTML and CSS. 
  
- :rocket: Fast-forward three years (and a lot of late nights later!), I've switched careers for a fully-fledged role in software development.
+ :rocket: Fast-forward three years (and a lot of late nights later!), I've switched careers for a fully-fledged role in software development and am now a full stack developer at a green tech start up.
  
-
 ---
 <h3>Langauges, tools & skills :muscle: </h3> 
 <p>
