@@ -8,7 +8,7 @@
  :rocket: Fast-forward three years (and a lot of late nights later!), I've switched careers for a fully-fledged role in software development and am now a full stack developer at a green tech start up.
  
 ---
-<h3>Langauges, tools & skills :muscle: </h3> 
+<h3>Languages :muscle: </h3> 
 <p>
  <div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
