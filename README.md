@@ -5,7 +5,7 @@
 
 🔒 In the depths of COVID lockdown 2020, I wanted to use my new found spare time productively, so began learning HTML and CSS. 
  
- :rocket: Fast-forward three years (and a lot of late nights later!), I've switched careers for a fully-fledged role in software development and am now a full stack developer at a green tech start up.
+ :rocket: Fast-forward four years (and a lot of late nights later!), I'm now a professional front end developer at a proptech start-up.
  
 ---
 <h3>Languages & Frameworks :muscle: </h3> 
